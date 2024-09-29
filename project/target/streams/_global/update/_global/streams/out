@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/root/test_api_scala/project/"), "test_api_scala-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating test_api_scala-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved test_api_scala-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of test_api_scala-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of test_api_scala-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/root/test_api_scala/project/"), "test_api_scala-build")[0m
